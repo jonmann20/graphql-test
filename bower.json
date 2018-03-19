@@ -1,0 +1,7 @@
+{
+  "name": "graphql-test",
+  "private": true,
+  "dependencies": {
+    "vaadin-grid": "^4.1.7"
+  }
+}
